@@ -107,10 +107,10 @@ Create a .env file in the client (or root) directory and add the backend URL:
 
 Code snippet
 
-VITE_BASE_URL=http://localhost:4000
+VITE_BASE_URL=http://localhost:3000
 Start the frontend development server: npm run dev
 
-Your application should now be running, with the frontend on http://localhost:5173 (or your default Vite port) and the backend on http://localhost:4000.
+Your application should now be running, with the frontend on http://localhost:5173 (or your default Vite port) and the backend on http://localhost:3000.
 
 License
 Distributed under the MIT License. See LICENSE.txt for more information.
