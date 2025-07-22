@@ -69,8 +69,8 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone (https://github.com/puja-24/LifeXcel.git)
+cd LifeXcel
 Backend Setup:
 
 Navigate to the server directory: cd server
