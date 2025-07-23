@@ -22,7 +22,7 @@ const logout = () => {
                     src={assets.logo}
                     alt="Quickblog Logo"
                     className="w-32 sm:w-36 cursor-pointer"
-                    onClick={() => navigate('/admin/dashboard')} // Navigate to admin dashboard
+                    onClick={() => navigate('/')} // Navigate to admin dashboard
                 />
                 <button
                     onClick={logout}
